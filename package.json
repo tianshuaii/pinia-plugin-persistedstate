@@ -1,0 +1,12 @@
+{
+  "name": "tbc-pinia-plugin-persistedstate", 
+  "version": "1.0.1", 
+  "description": "持久化存储pinia状态", 
+  "main": "src/index.js", 
+  "scripts": {
+    "build": "echo 'No build step required'" 
+  },
+  "keywords": ["pinia", "plugin", "persistence"], 
+  "author": "TianBenchu", 
+  "license": "MIT" 
+}
